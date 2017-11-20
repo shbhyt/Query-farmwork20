@@ -1,0 +1,10 @@
+D:\Net\Query\Query\bin\Debug\Query.exe
+D:\Net\Query\Query\bin\Debug\Query.pdb
+D:\Net\Query\Query\obj\x86\Debug\Query.Form1.resources
+D:\Net\Query\Query\obj\x86\Debug\Query.Properties.Resources.resources
+D:\Net\Query\Query\obj\x86\Debug\Query.csproj.GenerateResource.Cache
+D:\Net\Query\Query\obj\x86\Debug\Query.exe
+D:\Net\Query\Query\obj\x86\Debug\Query.pdb
+D:\Net\Query\Query\bin\Debug\Query.exe.config
+D:\Net\Query\Query\bin\Debug\MySql.Data.dll
+D:\Net\Query\Query\obj\x86\Debug\Query.csprojResolveAssemblyReference.cache
